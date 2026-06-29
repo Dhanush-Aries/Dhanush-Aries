@@ -117,6 +117,7 @@ Final-year **B.Tech CSE** at **GITAM Bangalore**. I ship daily with **Claude Cod
 | [**customer-support-agent**](https://github.com/Dhanush-Aries/customer-support-agent) 💬 | Next.js 14 streaming support chat. 10-article RAG with citations, 3-class mood detector, ephemeral prompt caching. |
 | [**autonomous-coding-agent**](https://github.com/Dhanush-Aries/autonomous-coding-agent) 🤖 | Two-agent autonomous coder — Initializer plans a JSON task graph, Coder executes via tool-use loop. Resumable state on every step. |
 | [**computer-use-agent**](https://github.com/Dhanush-Aries/computer-use-agent) 🖥️ | Claude computer-use agent driving a sandboxed virtual desktop. Streamlit UI + VNC viewer + Docker isolation. |
+| [**claude-code-skills**](https://github.com/Dhanush-Aries/claude-code-skills) 🧰 | Curated collection of 35 Claude Code skills for AI engineering, agent development, and offensive security. Skill / agent factories, LLM routing, OWASP review, dev-velocity tools. |
 
 <br/>
 
